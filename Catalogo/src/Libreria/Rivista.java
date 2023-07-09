@@ -1,9 +1,9 @@
 package Libreria;
 
 public class Rivista extends BooksElement {
-	public enum Periodicita {
-		WEEK, MONTH, SIXMONTH
-	}
+	// public enum Periodicita {
+	// WEEK, MONTH, SIXMONTH
+	// }
 
 	private Periodicita periodicita;
 
